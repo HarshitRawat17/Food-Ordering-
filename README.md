@@ -12,7 +12,7 @@ This was created while learning front-end web development and practicing respons
 
 ## 🛠️ Technologies Used
 
-- HTML5  
+- HTML5
 - CSS3
 
 ---
